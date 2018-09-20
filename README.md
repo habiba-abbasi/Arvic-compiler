@@ -1,6 +1,6 @@
 # Arvic-compiler
 
-#Description:
+# Description:
 This "Arvic-Compiler" project is part of my Compiler Construction course, I worked as a coder and making four major phases of general compiler i.e
 
 1) Lexical Analyzer.
