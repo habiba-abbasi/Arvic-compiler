@@ -1,0 +1,11 @@
+public class h1 {
+public fixed void home<let str g[]>{ 
+
+
+let flo c -> 4.5add 5.8!
+let num d -> 23.45add INC c !
+
+
+}
+
+}
